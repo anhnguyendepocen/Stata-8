@@ -1,0 +1,6 @@
+infile dictionary using anorexia.dat { 
+_first(2)
+str2 Group "Type de therapie"
+double Before "Avant"
+double After "Apres" 
+}
